@@ -1,0 +1,8 @@
+query login {
+  userInfo {
+    name
+    email
+    password
+    avatar?
+  }
+}
